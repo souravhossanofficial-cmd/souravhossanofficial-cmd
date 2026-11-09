@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">CONTRIBUTION CALENDAR</title><desc id="desc">Current streak · longest streak · recent activity calendar. Initial placeholder until GitHub Actions runs.</desc>
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#168F81"/><stop offset="1" stop-color="#7F8CFF"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="188" rx="18" fill="#F7F9FC" stroke="#D7E0EC" stroke-width="2"/>
+<rect x="28" y="28" width="5" height="134" rx="2.5" fill="url(#a)"/>
+<text x="58" y="73" fill="#1F2A3B" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" letter-spacing="1">CONTRIBUTION CALENDAR</text>
+<text x="58" y="111" fill="#66758B" font-family="Arial, Helvetica, sans-serif" font-size="17">Current streak · longest streak · recent activity calendar</text>
+<rect x="58" y="132" width="250" height="28" rx="8" fill="#FFFFFF" stroke="#D7E0EC"/>
+<circle cx="75" cy="146" r="4" fill="#168F81"/>
+<text x="90" y="151" fill="#66758B" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing=".6">AWAITING FIRST WORKFLOW RUN</text>
+<g opacity=".23" fill="none" stroke="#168F81" stroke-width="2"><path d="M790 142L850 116L900 128L960 88L1017 105L1080 65L1150 77"/><path d="M790 153H1150" stroke-dasharray="3 9"/></g>
+<g fill="#168F81" opacity=".65"><circle cx="850" cy="116" r="4"/><circle cx="960" cy="88" r="4"/><circle cx="1080" cy="65" r="4"/></g>
+</svg>

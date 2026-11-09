@@ -116,7 +116,7 @@ I am **MD Sourav Hossan**, a Quantitative Systems Architect and FinTech Engineer
 ## 📊 Live GitHub Analytics & Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravhossanofficial-cmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sourav's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=souravhossanofficial-cmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravhossanofficial-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>
 

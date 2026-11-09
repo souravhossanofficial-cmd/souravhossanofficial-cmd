@@ -118,12 +118,28 @@ I am **MD Sourav Hossan**, a Quantitative Systems Architect and FinTech Engineer
 ## 📊 Live GitHub Analytics & Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravhossanofficial-cmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sourav's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravhossanofficial-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=souravhossanofficial-cmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sourav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravhossanofficial-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravhossanofficial-cmd&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravhossanofficial-cmd&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="100%" />
+</p>
+
+---
+
+## 📈 Activity & Commit Momentum
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravhossanofficial-cmd&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Graph" width="100%" />
+</p>
+
+---
+
+## 📈 Activity & Commit Momentum
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravhossanofficial-cmd&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Graph" width="100%" />
 </p>
 
 ---

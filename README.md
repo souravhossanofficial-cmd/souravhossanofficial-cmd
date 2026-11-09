@@ -1,33 +1,136 @@
-<h1 align="center">Hi 👋, I'm MD SOURAV HOSSAN</h1>
-<h3 align="center">Building institutional-grade algorithmic engines, multi-threaded real-time data pipelines, and high-performance financial analytics suites.</h3>
+<!--
+  GitHub Profile README
+  Username: souravhossanofficial-cmd
+  Analytics SVGs are generated locally in this repository by:
+  .github/workflows/profile-cards.yml
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravhossanofficial-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="souravhossanofficial-cmd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravhossanofficial-cmd" alt="souravhossanofficial-cmd" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@souravhossan3" target="blank"><img src="https://img.shields.io/twitter/follow/@souravhossan3?logo=twitter&style=for-the-badge" alt="@souravhossan3" /></a> </p>
-
-- 🔭 I’m currently working on [quant-investment-suite](https://github.com/souravhossanofficial-cmd/quant-investment-suite.git)
-
-- 🌱 I’m currently learning **Advance AI Integration in FinTech**
-
-- 👯 I’m looking to collaborate on [quant-investment-suite](https://github.com/souravhossanofficial-cmd/quant-investment-suite.git)
-
-- 💬 Ask me about **Quantitative Developer & FinTech Engineer**
-
-- 📫 How to reach me **souravhossan.official@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@souravhossan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@souravhossan3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md. sourav hossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. sourav hossan" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="MD Sourav Hossan — Quantitative Developer and FinTech Engineer" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/souravhossanofficial-cmd">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/souravhossan3">X</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:souravhossan.official@gmail.com">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravhossanofficial-cmd&show_icons=true&locale=en&layout=compact" alt="souravhossanofficial-cmd" /></p>
+<p align="center">
+  <code>QUANTITATIVE DEVELOPMENT</code>
+  &nbsp; <code>FINTECH</code>
+  &nbsp; <code>ALGORITHMIC SYSTEMS</code>
+  &nbsp; <code>AI INTEGRATION</code>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravhossanofficial-cmd&show_icons=true&locale=en" alt="souravhossanofficial-cmd" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravhossanofficial-cmd&" alt="souravhossanofficial-cmd" /></p>
+## About
+
+I’m **MD Sourav Hossan**, focused on building algorithmic investment systems, real-time data pipelines, and financial analytics solutions. I’m currently exploring **advanced AI integration in FinTech** and developing the **Quant Investment Suite**.
+
+- 🔭 **Current focus:** [quant-investment-suite](https://github.com/souravhossanofficial-cmd/quant-investment-suite)
+- 🌱 **Currently learning:** Advanced AI integration in FinTech
+- 🤝 **Collaboration:** Open to discussing quantitative development, FinTech engineering, and financial analytics
+- 💬 **Topics:** Quantitative development · FinTech engineering · Algorithmic systems
+- 📫 **Contact:** [souravhossan.official@gmail.com](mailto:souravhossan.official@gmail.com)
+
+## Featured project
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/souravhossanofficial-cmd/quant-investment-suite">◈ Quant Investment Suite</a></h3>
+      <p>My current development focus. Follow the repository for source updates, implementation progress, and future releases.</p>
+      <p><a href="https://github.com/souravhossanofficial-cmd/quant-investment-suite">View repository →</a></p>
+    </td>
+  </tr>
+</table>
+
+## Technology & tools
+
+<p align="center">
+  <img src="./assets/technology-stack.svg" alt="Technology stack: programming languages, frameworks, cloud platforms, databases, visualization, design, and productivity tools" width="100%" />
+</p>
+
+<details>
+  <summary><strong>Technology list (text version)</strong></summary>
+
+  - **Languages:** C, C++, Java, JavaScript, Kotlin, PHP, Python, Swift
+  - **Web & application development:** HTML5, CSS3, .NET, Express, Flask, Flutter, Laravel, Node.js, React, React Native, Spring
+  - **Cloud & infrastructure:** AWS, Azure, Firebase, Google Cloud, Bash, Git, Linux, RabbitMQ, Grafana
+  - **Databases & visualization:** Microsoft SQL Server, MySQL, Oracle, CanvasJS, Chart.js, D3.js
+  - **Design & productivity:** Blender, Figma, Adobe Illustrator, Adobe Photoshop, Sketch, Unreal Engine, Adobe XD, Zapier
+</details>
+
+---
+
+## GitHub analytics
+
+The overview includes **stars earned**, **public repositories**, contributions, followers, pull requests, and issues. The cards are generated into this repository and refreshed automatically by GitHub Actions.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+    <img src="./assets/overview.light.svg" alt="GitHub overview: stars earned, public repositories, contributions, followers, pull requests, and issues" width="100%" />
+  </picture>
+</p>
+
+## Contribution activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg" />
+    <img src="./assets/momentum.light.svg" alt="Contribution activity and momentum over time" width="100%" />
+  </picture>
+</p>
+
+## Contribution calendar & streaks
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+    <img src="./assets/contributions.light.svg" alt="Contribution calendar with current and longest streaks" width="100%" />
+  </picture>
+</p>
+
+## Lifetime contribution graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
+    <img src="./assets/lifetime.light.svg" alt="Lifetime contribution history by year" width="100%" />
+  </picture>
+</p>
+
+## Commit activity graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
+    <img src="./assets/cadence.light.svg" alt="Commit activity punch card by weekday and hour" width="100%" />
+  </picture>
+</p>
+
+## Repositories & languages
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
+    <img src="./assets/repositories.light.svg" alt="Repositories ranked by recent commit activity" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+    <img src="./assets/languages.light.svg" alt="Programming language distribution across public repositories" width="100%" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with code, curiosity, and a focus on useful financial technology.</sub>
+</p>

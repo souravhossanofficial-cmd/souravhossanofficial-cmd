@@ -4,7 +4,7 @@
   Theme: Aesthetic Deep Cyberpunk / Glassmorphic Tech Cyan
 -->
 
-<!-- VISUAL HEADER BANNER & TYPING ANIMATION -->
+<!-- VISUAL HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06090f,50:0f172a,100:0284c7&height=220&section=header&text=MD%20SOURAV%20HOSSAN&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=QUANTITATIVE%20DEVELOPER%20%7C%20FINTECH%20SYSTEMS%20ARCHITECT&descSize=16&descAlignY=62&descAlign=50" alt="MD Sourav Hossan Banner" width="100%" />
 </p>
@@ -79,7 +79,6 @@ I am **MD Sourav Hossan**, a Quantitative Systems Architect and FinTech Engineer
 ## 🛠️ Technology & Skill Matrix
 
 <p align="center">
-  <!-- Quantitative & FinTech -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -87,7 +86,6 @@ I am **MD Sourav Hossan**, a Quantitative Systems Architect and FinTech Engineer
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <br />
-  <!-- Web & Infrastructure -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -118,8 +116,8 @@ I am **MD Sourav Hossan**, a Quantitative Systems Architect and FinTech Engineer
 ## 📊 Live GitHub Analytics & Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravhossanofficial-cmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sourav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravhossanofficial-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=souravhossanofficial-cmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sourav's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravhossanofficial-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
@@ -136,46 +134,7 @@ I am **MD Sourav Hossan**, a Quantitative Systems Architect and FinTech Engineer
 
 ---
 
-## 📈 Activity & Commit Momentum
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravhossanofficial-cmd&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Graph" width="100%" />
-</p>
-
----
-
-## 📈 Activity & Commit Momentum
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravhossanofficial-cmd&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Graph" width="100%" />
-</p>
-
-<details>
-  <summary>🖼️ <b>View Rendered Local Telemetry Cards</b></summary>
-  <br />
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-      <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%" />
-    </picture>
-  </p>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg" />
-      <img src="./assets/momentum.light.svg" alt="Contribution Momentum" width="100%" />
-    </picture>
-  </p>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
-      <img src="./assets/cadence.light.svg" alt="Commit Cadence" width="100%" />
-    </picture>
-  </p>
-</details>
-
----
-
-<!-- FOOTER BANNER WAVE -->
+<!-- FOOTER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:0f172a,100:06090f&height=120&section=footer" alt="Footer Banner" width="100%" />
 </p>

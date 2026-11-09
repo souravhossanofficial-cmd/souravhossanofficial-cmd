@@ -138,7 +138,10 @@ I am **MD Sourav Hossan**, a Quantitative Systems Architect and FinTech Engineer
 ## 📈 Activity & Commit Momentum
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravhossanofficial-cmd&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
+    <img src="./assets/cadence.light.svg" alt="Commit activity punch card by weekday and hour" width="100%" />
+  </picture>
 </p>
 
 ---
